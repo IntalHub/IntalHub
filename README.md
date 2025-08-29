@@ -8,11 +8,6 @@
 
 ---
 
-### 🔥 stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=intalhub&show_icons=true&theme=radical)
-
----
-
 ### 🛠️ skills
 - Python 🐍
 - Tkinter / GUI
