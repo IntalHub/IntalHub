@@ -1,4 +1,4 @@
-# 👋 hey, i'm intalhub
+# 👋 hey, i'm intally aka intalhub
 
 **python dev / gamer / tinkerer**
 
